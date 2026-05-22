@@ -4,4 +4,4 @@ resources:
  #- gotk-components.yaml
  #- gotk-sync.yaml
 #- ./flux-system
-- ./demo-namespace.yaml
+- flux-demo1/clusters/my-cluster/demo-namespace.yaml
